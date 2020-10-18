@@ -1,3 +1,6 @@
+*.h264
+*.jpg
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
